@@ -133,5 +133,5 @@ Contributions are welcome! Please follow these steps:
 ## Contact
 
 **Author:** Priyansh Jain
-**GitHub:** [@priyanshjain9414](https://github.com/priyanshjain9414)
-**Email:** [priyanshjain903@gmail.com](mailto:priyanshjain903@gmail.com)
+- **GitHub:** [@priyanshjain9414](https://github.com/priyanshjain9414)
+- **Email:** [priyanshjain903@gmail.com](mailto:priyanshjain903@gmail.com)
