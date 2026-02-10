@@ -84,7 +84,7 @@ git clone https://github.com/your-username/Stock-Crypto-Analytics.git
 
 2. Navigate to the project folder:
 
-```bash
+
 cd Stock-Crypto-Analytics
 ```
 
